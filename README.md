@@ -7,7 +7,7 @@ Over 3,000+ people are participating in this global challenge and
 each day brings a new real world business problem to solve utilizing
 my data analytics expertise.
 
-[Join the challenge here!]([https://lnkd.in/gFGn9app])
+[Join the challenge here!](https://lnkd.in/gFGn9app)
 
 ## My Approach
 While the challenge only focuses on solving the problem and getting a
@@ -26,6 +26,7 @@ result, I am expanding upon the challenge by:
 
 ## My Tech Stack
 Python (pandas, NumPy)
+
 Jupyter Notebook (for code display & business insights)
 
 ## Why This Matters
